@@ -1,9 +1,9 @@
 # latent-MNIST
 
 To start the project create a virtual environment using 
-'''
+```
 python -m venv myvenv
-'''
+```
 
 Activate the environment by myvenv\Scripts\activate
 
