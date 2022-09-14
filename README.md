@@ -1,4 +1,6 @@
-# latent-MNIST
+# Exploring the latent space of MNIST dataset
+
+![]()
 
 To start the project create a virtual environment using ```python -m venv myvenv ```
 
