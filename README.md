@@ -1,6 +1,6 @@
 # Exploring the latent space of MNIST dataset
 
-![]()
+![](https://github.com/DivijH/latent-MNIST/blob/main/MNIST-morphing.gif)
 
 To start the project create a virtual environment using ```python -m venv myvenv ```
 
